@@ -1,0 +1,105 @@
+{
+  "duration": 127.368,
+  "items": [
+    {
+      "speaker": "Oliver",
+      "start": 0.0,
+      "end": 5.976
+    },
+    {
+      "speaker": "Miles",
+      "start": 5.976,
+      "end": 14.232
+    },
+    {
+      "speaker": "Oliver",
+      "start": 14.232,
+      "end": 20.544
+    },
+    {
+      "speaker": "Miles",
+      "start": 20.544,
+      "end": 28.824
+    },
+    {
+      "speaker": "Oliver",
+      "start": 28.824,
+      "end": 34.872
+    },
+    {
+      "speaker": "Miles",
+      "start": 34.872,
+      "end": 41.424
+    },
+    {
+      "speaker": "Oliver",
+      "start": 41.424,
+      "end": 47.52
+    },
+    {
+      "speaker": "Miles",
+      "start": 47.52,
+      "end": 54.288
+    },
+    {
+      "speaker": "Oliver",
+      "start": 54.288,
+      "end": 61.632
+    },
+    {
+      "speaker": "Miles",
+      "start": 61.632,
+      "end": 68.328
+    },
+    {
+      "speaker": "Oliver",
+      "start": 68.328,
+      "end": 73.536
+    },
+    {
+      "speaker": "Miles",
+      "start": 73.536,
+      "end": 78.864
+    },
+    {
+      "speaker": "Oliver",
+      "start": 78.864,
+      "end": 83.52
+    },
+    {
+      "speaker": "Miles",
+      "start": 83.52,
+      "end": 91.392
+    },
+    {
+      "speaker": "Oliver",
+      "start": 91.392,
+      "end": 95.448
+    },
+    {
+      "speaker": "Miles",
+      "start": 95.448,
+      "end": 103.56
+    },
+    {
+      "speaker": "Oliver",
+      "start": 103.56,
+      "end": 107.088
+    },
+    {
+      "speaker": "Miles",
+      "start": 107.088,
+      "end": 114.264
+    },
+    {
+      "speaker": "Oliver",
+      "start": 114.264,
+      "end": 120.048
+    },
+    {
+      "speaker": "Miles",
+      "start": 120.048,
+      "end": 127.368
+    }
+  ]
+}

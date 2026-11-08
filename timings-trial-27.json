@@ -1,0 +1,105 @@
+{
+  "duration": 123.36,
+  "items": [
+    {
+      "speaker": "Evan",
+      "start": 0.0,
+      "end": 5.688
+    },
+    {
+      "speaker": "Kai",
+      "start": 5.688,
+      "end": 11.832
+    },
+    {
+      "speaker": "Evan",
+      "start": 11.832,
+      "end": 19.08
+    },
+    {
+      "speaker": "Kai",
+      "start": 19.08,
+      "end": 26.088
+    },
+    {
+      "speaker": "Evan",
+      "start": 26.088,
+      "end": 31.536
+    },
+    {
+      "speaker": "Kai",
+      "start": 31.536,
+      "end": 37.872
+    },
+    {
+      "speaker": "Evan",
+      "start": 37.872,
+      "end": 41.352
+    },
+    {
+      "speaker": "Kai",
+      "start": 41.352,
+      "end": 47.712
+    },
+    {
+      "speaker": "Evan",
+      "start": 47.712,
+      "end": 51.72
+    },
+    {
+      "speaker": "Kai",
+      "start": 51.72,
+      "end": 60.264
+    },
+    {
+      "speaker": "Evan",
+      "start": 60.264,
+      "end": 65.76
+    },
+    {
+      "speaker": "Kai",
+      "start": 65.76,
+      "end": 74.112
+    },
+    {
+      "speaker": "Evan",
+      "start": 74.112,
+      "end": 78.552
+    },
+    {
+      "speaker": "Kai",
+      "start": 78.552,
+      "end": 85.68
+    },
+    {
+      "speaker": "Evan",
+      "start": 85.68,
+      "end": 91.488
+    },
+    {
+      "speaker": "Kai",
+      "start": 91.488,
+      "end": 97.776
+    },
+    {
+      "speaker": "Evan",
+      "start": 97.776,
+      "end": 103.536
+    },
+    {
+      "speaker": "Kai",
+      "start": 103.536,
+      "end": 112.2
+    },
+    {
+      "speaker": "Evan",
+      "start": 112.2,
+      "end": 117.096
+    },
+    {
+      "speaker": "Kai",
+      "start": 117.096,
+      "end": 123.36
+    }
+  ]
+}

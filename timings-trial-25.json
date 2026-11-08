@@ -1,0 +1,105 @@
+{
+  "duration": 115.296,
+  "items": [
+    {
+      "speaker": "Evan",
+      "start": 0.0,
+      "end": 5.688
+    },
+    {
+      "speaker": "Oliver",
+      "start": 5.688,
+      "end": 11.352
+    },
+    {
+      "speaker": "Evan",
+      "start": 11.352,
+      "end": 17.52
+    },
+    {
+      "speaker": "Oliver",
+      "start": 17.52,
+      "end": 23.04
+    },
+    {
+      "speaker": "Evan",
+      "start": 23.04,
+      "end": 27.792
+    },
+    {
+      "speaker": "Oliver",
+      "start": 27.792,
+      "end": 35.256
+    },
+    {
+      "speaker": "Evan",
+      "start": 35.256,
+      "end": 42.816
+    },
+    {
+      "speaker": "Oliver",
+      "start": 42.816,
+      "end": 49.776
+    },
+    {
+      "speaker": "Evan",
+      "start": 49.776,
+      "end": 55.704
+    },
+    {
+      "speaker": "Oliver",
+      "start": 55.704,
+      "end": 60.216
+    },
+    {
+      "speaker": "Evan",
+      "start": 60.216,
+      "end": 65.808
+    },
+    {
+      "speaker": "Oliver",
+      "start": 65.808,
+      "end": 73.248
+    },
+    {
+      "speaker": "Evan",
+      "start": 73.248,
+      "end": 76.656
+    },
+    {
+      "speaker": "Oliver",
+      "start": 76.656,
+      "end": 82.44
+    },
+    {
+      "speaker": "Evan",
+      "start": 82.44,
+      "end": 89.328
+    },
+    {
+      "speaker": "Oliver",
+      "start": 89.328,
+      "end": 94.728
+    },
+    {
+      "speaker": "Evan",
+      "start": 94.728,
+      "end": 100.656
+    },
+    {
+      "speaker": "Oliver",
+      "start": 100.656,
+      "end": 106.536
+    },
+    {
+      "speaker": "Evan",
+      "start": 106.536,
+      "end": 109.248
+    },
+    {
+      "speaker": "Oliver",
+      "start": 109.248,
+      "end": 115.296
+    }
+  ]
+}

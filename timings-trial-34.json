@@ -1,0 +1,125 @@
+{
+  "duration": 175.824,
+  "items": [
+    {
+      "speaker": "Kai",
+      "start": 0.0,
+      "end": 8.64
+    },
+    {
+      "speaker": "Evan",
+      "start": 8.64,
+      "end": 16.32
+    },
+    {
+      "speaker": "Grant",
+      "start": 16.32,
+      "end": 24.96
+    },
+    {
+      "speaker": "Dean",
+      "start": 24.96,
+      "end": 32.16
+    },
+    {
+      "speaker": "Evan",
+      "start": 32.16,
+      "end": 39.024
+    },
+    {
+      "speaker": "Grant",
+      "start": 39.024,
+      "end": 45.72
+    },
+    {
+      "speaker": "Kai",
+      "start": 45.72,
+      "end": 53.688
+    },
+    {
+      "speaker": "Dean",
+      "start": 53.688,
+      "end": 59.88
+    },
+    {
+      "speaker": "Grant",
+      "start": 59.88,
+      "end": 65.76
+    },
+    {
+      "speaker": "Evan",
+      "start": 65.76,
+      "end": 74.208
+    },
+    {
+      "speaker": "Dean",
+      "start": 74.208,
+      "end": 83.376
+    },
+    {
+      "speaker": "Kai",
+      "start": 83.376,
+      "end": 89.184
+    },
+    {
+      "speaker": "Evan",
+      "start": 89.184,
+      "end": 96.168
+    },
+    {
+      "speaker": "Grant",
+      "start": 96.168,
+      "end": 103.224
+    },
+    {
+      "speaker": "Dean",
+      "start": 103.224,
+      "end": 111.432
+    },
+    {
+      "speaker": "Kai",
+      "start": 111.432,
+      "end": 118.368
+    },
+    {
+      "speaker": "Grant",
+      "start": 118.368,
+      "end": 127.248
+    },
+    {
+      "speaker": "Evan",
+      "start": 127.248,
+      "end": 134.016
+    },
+    {
+      "speaker": "Kai",
+      "start": 134.016,
+      "end": 140.064
+    },
+    {
+      "speaker": "Dean",
+      "start": 140.064,
+      "end": 145.2
+    },
+    {
+      "speaker": "Evan",
+      "start": 145.2,
+      "end": 151.056
+    },
+    {
+      "speaker": "Grant",
+      "start": 151.056,
+      "end": 158.376
+    },
+    {
+      "speaker": "Dean",
+      "start": 158.376,
+      "end": 166.44
+    },
+    {
+      "speaker": "Kai",
+      "start": 166.44,
+      "end": 175.824
+    }
+  ]
+}

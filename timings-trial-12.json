@@ -1,0 +1,85 @@
+{
+  "duration": 86.184,
+  "items": [
+    {
+      "speaker": "Kai",
+      "start": 0.0,
+      "end": 7.104
+    },
+    {
+      "speaker": "Oliver",
+      "start": 7.104,
+      "end": 14.352
+    },
+    {
+      "speaker": "Kai",
+      "start": 14.352,
+      "end": 19.68
+    },
+    {
+      "speaker": "Oliver",
+      "start": 19.68,
+      "end": 25.872
+    },
+    {
+      "speaker": "Kai",
+      "start": 25.872,
+      "end": 31.488
+    },
+    {
+      "speaker": "Oliver",
+      "start": 31.488,
+      "end": 36.816
+    },
+    {
+      "speaker": "Kai",
+      "start": 36.816,
+      "end": 44.904
+    },
+    {
+      "speaker": "Oliver",
+      "start": 44.904,
+      "end": 52.344
+    },
+    {
+      "speaker": "Kai",
+      "start": 52.344,
+      "end": 55.296
+    },
+    {
+      "speaker": "Oliver",
+      "start": 55.296,
+      "end": 61.56
+    },
+    {
+      "speaker": "Kai",
+      "start": 61.56,
+      "end": 65.352
+    },
+    {
+      "speaker": "Oliver",
+      "start": 65.352,
+      "end": 70.032
+    },
+    {
+      "speaker": "Kai",
+      "start": 70.032,
+      "end": 75.864
+    },
+    {
+      "speaker": "Oliver",
+      "start": 75.864,
+      "end": 80.016
+    },
+    {
+      "speaker": "Kai",
+      "start": 80.016,
+      "end": 83.208
+    },
+    {
+      "speaker": "Oliver",
+      "start": 83.208,
+      "end": 86.184
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "duration": 85.728,
+  "items": [
+    {
+      "speaker": "Miles",
+      "start": 0.0,
+      "end": 6.456
+    },
+    {
+      "speaker": "Kai",
+      "start": 6.456,
+      "end": 12.744
+    },
+    {
+      "speaker": "Miles",
+      "start": 12.744,
+      "end": 16.632
+    },
+    {
+      "speaker": "Kai",
+      "start": 16.632,
+      "end": 21.36
+    },
+    {
+      "speaker": "Miles",
+      "start": 21.36,
+      "end": 28.176
+    },
+    {
+      "speaker": "Kai",
+      "start": 28.176,
+      "end": 33.192
+    },
+    {
+      "speaker": "Miles",
+      "start": 33.192,
+      "end": 40.632
+    },
+    {
+      "speaker": "Kai",
+      "start": 40.632,
+      "end": 43.968
+    },
+    {
+      "speaker": "Miles",
+      "start": 43.968,
+      "end": 47.112
+    },
+    {
+      "speaker": "Kai",
+      "start": 47.112,
+      "end": 54.72
+    },
+    {
+      "speaker": "Miles",
+      "start": 54.72,
+      "end": 58.392
+    },
+    {
+      "speaker": "Kai",
+      "start": 58.392,
+      "end": 63.696
+    },
+    {
+      "speaker": "Miles",
+      "start": 63.696,
+      "end": 70.992
+    },
+    {
+      "speaker": "Kai",
+      "start": 70.992,
+      "end": 76.536
+    },
+    {
+      "speaker": "Miles",
+      "start": 76.536,
+      "end": 81.408
+    },
+    {
+      "speaker": "Kai",
+      "start": 81.408,
+      "end": 85.728
+    }
+  ]
+}

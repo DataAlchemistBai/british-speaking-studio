@@ -1,0 +1,125 @@
+{
+  "duration": 169.824,
+  "items": [
+    {
+      "speaker": "Grant",
+      "start": 0.0,
+      "end": 7.344
+    },
+    {
+      "speaker": "Dean",
+      "start": 7.344,
+      "end": 13.968
+    },
+    {
+      "speaker": "Miles",
+      "start": 13.968,
+      "end": 21.504
+    },
+    {
+      "speaker": "Kai",
+      "start": 21.504,
+      "end": 28.272
+    },
+    {
+      "speaker": "Dean",
+      "start": 28.272,
+      "end": 36.624
+    },
+    {
+      "speaker": "Miles",
+      "start": 36.624,
+      "end": 42.816
+    },
+    {
+      "speaker": "Grant",
+      "start": 42.816,
+      "end": 47.4
+    },
+    {
+      "speaker": "Kai",
+      "start": 47.4,
+      "end": 53.616
+    },
+    {
+      "speaker": "Miles",
+      "start": 53.616,
+      "end": 59.448
+    },
+    {
+      "speaker": "Dean",
+      "start": 59.448,
+      "end": 66.864
+    },
+    {
+      "speaker": "Kai",
+      "start": 66.864,
+      "end": 72.96
+    },
+    {
+      "speaker": "Grant",
+      "start": 72.96,
+      "end": 77.952
+    },
+    {
+      "speaker": "Dean",
+      "start": 77.952,
+      "end": 88.152
+    },
+    {
+      "speaker": "Miles",
+      "start": 88.152,
+      "end": 94.056
+    },
+    {
+      "speaker": "Kai",
+      "start": 94.056,
+      "end": 98.496
+    },
+    {
+      "speaker": "Grant",
+      "start": 98.496,
+      "end": 107.808
+    },
+    {
+      "speaker": "Miles",
+      "start": 107.808,
+      "end": 115.992
+    },
+    {
+      "speaker": "Dean",
+      "start": 115.992,
+      "end": 124.416
+    },
+    {
+      "speaker": "Grant",
+      "start": 124.416,
+      "end": 129.528
+    },
+    {
+      "speaker": "Kai",
+      "start": 129.528,
+      "end": 135.096
+    },
+    {
+      "speaker": "Dean",
+      "start": 135.096,
+      "end": 143.76
+    },
+    {
+      "speaker": "Miles",
+      "start": 143.76,
+      "end": 151.392
+    },
+    {
+      "speaker": "Kai",
+      "start": 151.392,
+      "end": 160.968
+    },
+    {
+      "speaker": "Grant",
+      "start": 160.968,
+      "end": 169.824
+    }
+  ]
+}

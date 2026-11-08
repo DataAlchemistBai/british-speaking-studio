@@ -1,0 +1,125 @@
+{
+  "duration": 165.648,
+  "items": [
+    {
+      "speaker": "Evan",
+      "start": 0.0,
+      "end": 5.64
+    },
+    {
+      "speaker": "Oliver",
+      "start": 5.64,
+      "end": 12.072
+    },
+    {
+      "speaker": "Miles",
+      "start": 12.072,
+      "end": 19.128
+    },
+    {
+      "speaker": "Kai",
+      "start": 19.128,
+      "end": 27.552
+    },
+    {
+      "speaker": "Oliver",
+      "start": 27.552,
+      "end": 34.608
+    },
+    {
+      "speaker": "Miles",
+      "start": 34.608,
+      "end": 40.968
+    },
+    {
+      "speaker": "Evan",
+      "start": 40.968,
+      "end": 46.608
+    },
+    {
+      "speaker": "Kai",
+      "start": 46.608,
+      "end": 53.52
+    },
+    {
+      "speaker": "Miles",
+      "start": 53.52,
+      "end": 58.248
+    },
+    {
+      "speaker": "Oliver",
+      "start": 58.248,
+      "end": 64.512
+    },
+    {
+      "speaker": "Kai",
+      "start": 64.512,
+      "end": 69.864
+    },
+    {
+      "speaker": "Evan",
+      "start": 69.864,
+      "end": 76.848
+    },
+    {
+      "speaker": "Oliver",
+      "start": 76.848,
+      "end": 85.152
+    },
+    {
+      "speaker": "Miles",
+      "start": 85.152,
+      "end": 92.16
+    },
+    {
+      "speaker": "Kai",
+      "start": 92.16,
+      "end": 100.176
+    },
+    {
+      "speaker": "Evan",
+      "start": 100.176,
+      "end": 107.088
+    },
+    {
+      "speaker": "Miles",
+      "start": 107.088,
+      "end": 114.192
+    },
+    {
+      "speaker": "Oliver",
+      "start": 114.192,
+      "end": 121.416
+    },
+    {
+      "speaker": "Evan",
+      "start": 121.416,
+      "end": 128.064
+    },
+    {
+      "speaker": "Kai",
+      "start": 128.064,
+      "end": 135.336
+    },
+    {
+      "speaker": "Oliver",
+      "start": 135.336,
+      "end": 142.512
+    },
+    {
+      "speaker": "Miles",
+      "start": 142.512,
+      "end": 149.736
+    },
+    {
+      "speaker": "Kai",
+      "start": 149.736,
+      "end": 158.376
+    },
+    {
+      "speaker": "Evan",
+      "start": 158.376,
+      "end": 165.648
+    }
+  ]
+}

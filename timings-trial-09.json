@@ -1,0 +1,85 @@
+{
+  "duration": 104.568,
+  "items": [
+    {
+      "speaker": "Miles",
+      "start": 0.0,
+      "end": 8.976
+    },
+    {
+      "speaker": "Evan",
+      "start": 8.976,
+      "end": 16.392
+    },
+    {
+      "speaker": "Miles",
+      "start": 16.392,
+      "end": 22.944
+    },
+    {
+      "speaker": "Evan",
+      "start": 22.944,
+      "end": 30.0
+    },
+    {
+      "speaker": "Miles",
+      "start": 30.0,
+      "end": 34.944
+    },
+    {
+      "speaker": "Evan",
+      "start": 34.944,
+      "end": 39.432
+    },
+    {
+      "speaker": "Miles",
+      "start": 39.432,
+      "end": 46.656
+    },
+    {
+      "speaker": "Evan",
+      "start": 46.656,
+      "end": 53.472
+    },
+    {
+      "speaker": "Miles",
+      "start": 53.472,
+      "end": 58.92
+    },
+    {
+      "speaker": "Evan",
+      "start": 58.92,
+      "end": 65.928
+    },
+    {
+      "speaker": "Miles",
+      "start": 65.928,
+      "end": 73.8
+    },
+    {
+      "speaker": "Evan",
+      "start": 73.8,
+      "end": 79.32
+    },
+    {
+      "speaker": "Miles",
+      "start": 79.32,
+      "end": 83.328
+    },
+    {
+      "speaker": "Evan",
+      "start": 83.328,
+      "end": 90.504
+    },
+    {
+      "speaker": "Miles",
+      "start": 90.504,
+      "end": 99.144
+    },
+    {
+      "speaker": "Evan",
+      "start": 99.144,
+      "end": 104.568
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "british-speaking-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Buildless bilingual English speaking practice with synchronized audio and fictional character stories",
+  "license": "MIT",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "test": "node tools/check.mjs && node tools/smoke.mjs"
+  }
+}

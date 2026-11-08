@@ -1,0 +1,125 @@
+{
+  "duration": 163.824,
+  "items": [
+    {
+      "speaker": "Miles",
+      "start": 0.0,
+      "end": 9.744
+    },
+    {
+      "speaker": "Oliver",
+      "start": 9.744,
+      "end": 17.688
+    },
+    {
+      "speaker": "Grant",
+      "start": 17.688,
+      "end": 26.376
+    },
+    {
+      "speaker": "Dean",
+      "start": 26.376,
+      "end": 32.232
+    },
+    {
+      "speaker": "Oliver",
+      "start": 32.232,
+      "end": 39.768
+    },
+    {
+      "speaker": "Grant",
+      "start": 39.768,
+      "end": 45.312
+    },
+    {
+      "speaker": "Miles",
+      "start": 45.312,
+      "end": 53.232
+    },
+    {
+      "speaker": "Dean",
+      "start": 53.232,
+      "end": 59.424
+    },
+    {
+      "speaker": "Grant",
+      "start": 59.424,
+      "end": 66.432
+    },
+    {
+      "speaker": "Oliver",
+      "start": 66.432,
+      "end": 71.352
+    },
+    {
+      "speaker": "Dean",
+      "start": 71.352,
+      "end": 79.248
+    },
+    {
+      "speaker": "Miles",
+      "start": 79.248,
+      "end": 84.576
+    },
+    {
+      "speaker": "Oliver",
+      "start": 84.576,
+      "end": 92.088
+    },
+    {
+      "speaker": "Grant",
+      "start": 92.088,
+      "end": 98.448
+    },
+    {
+      "speaker": "Dean",
+      "start": 98.448,
+      "end": 104.592
+    },
+    {
+      "speaker": "Miles",
+      "start": 104.592,
+      "end": 111.24
+    },
+    {
+      "speaker": "Grant",
+      "start": 111.24,
+      "end": 117.72
+    },
+    {
+      "speaker": "Oliver",
+      "start": 117.72,
+      "end": 124.152
+    },
+    {
+      "speaker": "Miles",
+      "start": 124.152,
+      "end": 130.104
+    },
+    {
+      "speaker": "Dean",
+      "start": 130.104,
+      "end": 136.704
+    },
+    {
+      "speaker": "Oliver",
+      "start": 136.704,
+      "end": 144.096
+    },
+    {
+      "speaker": "Grant",
+      "start": 144.096,
+      "end": 151.08
+    },
+    {
+      "speaker": "Dean",
+      "start": 151.08,
+      "end": 158.208
+    },
+    {
+      "speaker": "Miles",
+      "start": 158.208,
+      "end": 163.824
+    }
+  ]
+}
