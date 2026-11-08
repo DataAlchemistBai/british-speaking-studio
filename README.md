@@ -2,7 +2,9 @@
 
 一个零前端依赖的英语听说练习网站：双人／四人对话、同步字幕、人物说话高亮，以及可重复选择的连续故事卡片。
 
-[在线体验](https://british-speaking-studio.yewenhua111.chatgpt.site) · [人物与故事档案](docs/STORY_NOTES.md) · [素材说明](ASSETS.md)
+[在线体验：手机／电脑直接打开](https://dataalchemistbai.github.io/british-speaking-studio/) · [人物与故事档案](docs/STORY_NOTES.md) · [素材说明](ASSETS.md)
+
+在线版无需 GitHub 账号、无需安装软件或配置环境。手机上点播放按钮即可开始；主题和学习进度保存在当前浏览器中。
 
 ## 功能
 
@@ -59,7 +61,9 @@ tools/check.mjs             零依赖检查
 
 ## 静态部署
 
-仓库根目录即网站根目录，可部署到支持静态文件、HTTPS 和音频播放的托管服务。保留目录结构即可，无须构建。仓库没有绑定任何内部发布服务，也不会在克隆时更改在线站点。
+仓库根目录即网站根目录，已使用 GitHub Pages 从 `main` 分支的根目录发布。`.nojekyll` 保证前端文件按静态资源直接发布。推送到此分支后，GitHub 会重新发布；访客只需打开在线链接。
+
+也可部署到其他支持静态文件、HTTPS 和音频播放的托管服务。保留目录结构即可，无须构建。浏览、下载或克隆仓库本身不会更改在线站点。
 
 ## 开源与素材
 
